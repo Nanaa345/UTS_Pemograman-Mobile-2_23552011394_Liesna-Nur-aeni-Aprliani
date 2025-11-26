@@ -52,3 +52,6 @@ Widget `Stack` memungkinkan menumpuk beberapa widget di atas satu sama lain.
 - **Badge Indikator:** Mudah menambahkan badge indikator, misalnya label "Promo", "Best Seller", dsb.
 - **Fleksibilitas Desain:** Fleksibel dalam desain, karena bisa menempatkan widget di posisi bebas (*top*, *bottom*, *center*).
 - **Overlay:** Cocok untuk membuat *menu card* dengan *cover image* + *gradient overlay* + tombol.
+
+### Link Rekaman Pengerjaan
+https://drive.google.com/drive/folders/1gpiuJJU8dMtf4g_yRj0e9mug1qzkhTcq
